@@ -1,3 +1,4 @@
+ # Neil Araujo
 def encode(user_pw):
     key = {
         3: 3,
